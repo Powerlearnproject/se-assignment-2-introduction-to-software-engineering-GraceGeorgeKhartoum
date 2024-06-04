@@ -6,12 +6,20 @@ Instructions:
 Answer the following questions based on your understanding of software engineering concepts. Provide detailed explanations and examples where appropriate.
 
 Questions:
-Define Software Engineering:
+Define Software Engineering: This is the systematic application of engineering principles, methods and tools to the development and maintenance of high-quality software systems. 
 
 What is software engineering, and how does it differ from traditional programming?
-Software Development Life Cycle (SDLC):
+Software Development Life Cycle (SDLC):Software engineering is the systematic application of engineering principles, methods and tools to the development and maintenance of high-quality software systems. Software engineering requires a holistic approach, incorporating project management, quality assurance, and collaborative efforts among diverse teams, whereas traditional programming focuses more on the act of writing and refining code.
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+1.Requirement analysis-This involves gathering user needs and system requirements.
+2.Design-This involve creating high qualuty and detailed designs of the software architect and user interface.
+3.Implementation-Writing code and building the software according to the design.
+4.Testing-conducting various tests ti ensure the software meets quality standards and functional requirement.
+5.Deployment-Involves releasing the software to users or customers.
+6.Maintenance- This is the providing of ongoing support, updates and enhancements to the software afrer deployment.
+
+
 Agile vs. Waterfall Models:
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
