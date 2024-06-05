@@ -22,7 +22,12 @@ Explain the various phases of the Software Development Life Cycle. Provide a bri
 
 Agile vs. Waterfall Models:
 
-Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
+Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred? 
+The key differences between the Agile and the Waterfall models of software development come in the flexibilty, budget, timeline, and client involvement. The budget for projects using Waterfall methodologies tends to be less flexible because the project is mapped out from the beginning. With Agile, there is more room to change direction as the project develops, so the budget is also subject to change. Similarly, the timeline with Waterfall is set from the start, while it’s more flexible with Agile and dependent on how the project develops.Agile is better suited for projects where stakeholders are closely involved every step of the way. Waterfall is a more structured project management method and does not lend itself to the same type of flexibility.
+Waterfall is better suited for projects with regulations or requirements because each phase’s deliverables and strict procedures ensure that they are met.
+Agile is better suited for teams that plan on moving fast, experimenting with direction and don’t know how the final project will look before they start. 
+https://www.forbes.com/advisor/business/agile-vs-waterfall-methodology/#:~:text=Agile%20is%20open%20to%20adaptation,with%20a%20defined%20end%20goal.
+
 Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
@@ -36,7 +41,7 @@ Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 Software Project Management:
-
+   
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 Software Maintenance:
 
